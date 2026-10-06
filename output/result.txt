@@ -1,0 +1,15 @@
+Word count in IF.txt: 295
+Word count in AlwaysRememberUsThisWay.txt: 223
+Grand total word count: 518
+
+Top 3 words in IF.txt:
+  1. and - 20
+  2. you - 18
+  3. if - 14
+
+Top 3 words in AlwaysRememberUsThisWay.txt (contractions expanded):
+  1. i - 15
+  2. the - 13
+  3. not - 9
+
+IP address: 10.11.38.22
